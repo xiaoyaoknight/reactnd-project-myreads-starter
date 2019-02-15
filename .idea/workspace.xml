@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a817502-ddf4-4c23-8f51-ddab07bed156" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Book.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BookHeader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BookShelf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="2a817502-ddf4-4c23-8f51-ddab07bed156" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -26,7 +15,7 @@
     <session id="-388513690">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.opened" value="5" />
@@ -255,12 +244,12 @@
       <workItem from="1550047141383" duration="2214000" />
       <workItem from="1550053517353" duration="22000" />
       <workItem from="1550146251569" duration="1170000" />
-      <workItem from="1550218549496" duration="4826000" />
+      <workItem from="1550218549496" duration="5050000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12758000" />
+    <option name="totallyTimeSpent" value="12982000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1655" y="101" width="1708" height="945" extended-state="0" />
